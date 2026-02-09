@@ -1,5 +1,5 @@
 # PiAOC_2024_2025
-### Repository for PiAOC (Przetwarzanie i analiza obrazów cyfrowych - Image processing and analysis) course at AGH University
+### Repository for PiAOC (Przetwarzanie i Analiza Obrazów Cyfrowych - Image Processing and Analysis) course at AGH University
 
 Repozytorium zawiera moje rozwiązania zadań z kolejnych laboratoriów - katalogi **lab*i***, `i = 1, 2,..., 7` wraz z rozwiązaniami zadań domowych do tych laboratoriów, gdzie zadania domowe były.
 Ponadto, w ramach laboratorium nr 3 udostępniono dodatkowe pliki - zostały one wrzucone.
